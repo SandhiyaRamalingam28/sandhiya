@@ -1,0 +1,46 @@
+{
+	"Users" :[
+	{
+		"Name" : "Sandhiya",
+		"Age" : "21",
+		"DOB" : "28-05-2000",
+		"FirstName" : "Sandhiya",
+		"LastName" : "Ramalingam",
+		"more" : {
+			"Address Line 1" : "212,udumalpet",
+			"Address Line 2" : "212,udumalpet",
+			"Address Line 3" : "212,udumalpet",
+			"Phone Number" : "8-234569872"
+		}
+	},
+	{
+		
+		"Name" : "Saranya",
+		"Age" : "23",
+		"DOB" : "12-04-1999",
+		"FirstName" : "Saranya",
+		"LastName" : "Ramalingam",
+		"more" : {
+			"Address Line 1" : "232,pollachi",
+			"Address Line 2" : "232,pollachi",
+			"Address Line 3" : "232,pollachi",
+			"Phone Number" : "9875461237"
+		}
+	},
+	{
+		
+		"Name" : "shivanya",
+		"Age" : "28",
+		"DOB" : "28-02-1994",
+		"FirstName" : "Shivanya",
+		"LastName" : "Rajesh",
+		"more" : {
+			"Address Line 1" : "8,coimbatore",
+			"Address Line 2" : "8,coimbatore",
+			"Address Line 3" : "8,coimbatore",
+			"Phone Number" : "6854791239"
+		}
+	}
+	]
+	
+}
